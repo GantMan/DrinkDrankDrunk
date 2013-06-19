@@ -2,9 +2,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     ProMotion (0.7.6)
+    teacup (2.0.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   ProMotion (~> 0.7.5)
+  teacup
